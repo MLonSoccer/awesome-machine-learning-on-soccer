@@ -1,28 +1,9 @@
 # Machine Learning On Soccer
 Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)!
 
-## Resaerch
-
-## Data
-
-### Event Data
-on-ball events
-
-### Tracking Data
-Player tracking systems record the coordinate position of every player on the field (and usually the ball), many times per second. State-of-the-art systems collect up to 25 samples-per-second. 
-
-### Public Dataset
-- https://github.com/statsbomb/open-data
-- https://github.com/metrica-sports/sample-data
-
-## Tools
-
-### Tutorial
-
-https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 
 ---
-##### Soccer Analytics Research:
+## Resaerch and Analytics on Soccer
 
 - **[A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf)** by [Sarah Rudd](https://twitter.com/srudd_ok)
 - **[An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
@@ -40,7 +21,27 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 - **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)
 
 ---
-##### Some Favorite Blog Posts
+## Data
+
+### Event Data
+on-ball events
+
+### Tracking Data
+Player tracking systems record the coordinate position of every player on the field (and usually the ball), many times per second. State-of-the-art systems collect up to 25 samples-per-second. 
+
+### Public Dataset
+- https://github.com/statsbomb/open-data
+- https://github.com/metrica-sports/sample-data
+
+---
+## Tools
+
+### Tutorial
+
+https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
+
+---
+## Some Favorite Blog Posts
 - **[Assessing	The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
 - **[Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/)** by [Thom Lawrence](https://twitter.com/lemonwatcher)
@@ -57,7 +58,7 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 > Many of these are borrowed from [Sam Gregory](https://twitter.com/GregorydSam)'s list  [here](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e). This is far from complete, and will definitely add to this from time to time.
 
 ---
-##### Recommended Watching:
+## Recommended Watching:
 
 - [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039)
   > This 2020 OptaPro Forum talk from [Karun Singh](https://twitter.com/karun1710) represents some state-of-the-art research around autoencoders and feature extraction from tactical context.
@@ -78,7 +79,7 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
   > This PyCon 2016 talk from [Jake VanderPlas](https://twitter.com/jakevdp) is a great crash course in doing _statistics with for loops_. It really provides a great perspective for those of us without an extensive background in hard statistics. Great speaker, too.
 
 ---
-##### Resources:
+## Resources:
 
 - [`socceraction`](https://github.com/ML-KULeuven/socceraction)
   > A python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
@@ -98,10 +99,15 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   > [Jake VanderPlas](https://twitter.com/jakevdp) made his entire Python Data Science Handbook and accompanying Jupyter notebooks available online. It's a tremendous resource.
 
-##### Books:
+## Books:
 - [The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
 - [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
 - [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
+
+## Credits
+
+- https://github.com/devinpleuler/analytics-handbook
+- https://github.com/josephmisiti/awesome-machine-learning
 
 ##### Looking for Ideas?
 I maintain a [Twitter Thread](https://twitter.com/devinpleuler/status/1226917827304738818) of potential ideas that I think would be interesting soccer analytics projects.
