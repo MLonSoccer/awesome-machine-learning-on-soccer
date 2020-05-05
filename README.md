@@ -1,4 +1,4 @@
-# Machine Learning On Soccer
+# Awesome Machine Learning On Soccer
 Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)!
 
 
