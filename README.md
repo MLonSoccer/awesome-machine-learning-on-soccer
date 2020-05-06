@@ -105,6 +105,9 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 - [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
 
 ---
+## Conferences/Workshops
+- [2020 SOUNDERS FC SOCCER ANALYTICS CONFERENCE](https://www.soundersfc.com/socceranalytics)
+---
 ## Credits
 
 - https://github.com/devinpleuler/analytics-handbook
