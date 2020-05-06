@@ -1,5 +1,5 @@
 # Awesome Machine Learning On Soccer
-Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)! Inspired by the **[Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)** created by [Devin Pleuler](https://twitter.com/devinpleuler)
+Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)! Inspired by the **[Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)** created by [Devin Pleuler](https://twitter.com/devinpleuler).
 
 ---
 ## Resaerch and Analytics on Soccer
@@ -34,31 +34,20 @@ The following two types of data are often used:
 
 ### Libraries
 - [`socceraction`](https://github.com/ML-KULeuven/socceraction)
-  > A python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
-  
 - [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer)
-  > A python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
-
 - [`statsbombpy`](https://github.com/statsbomb/statsbombpy)
-  > A python library written by Francisco Goitia to access StatsBomb data.
-
 - [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
-  > A python library to convert StatsBomb's JSON data into CSV format.
-
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
-  > Not `Python`, but this soccer visualization library from [Ben Torvaney](https://twitter.com/Torvaney) is great.
-
 
 ### Tutorial
 
-https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
+- [Soccer Analytics Tutorials](https://github.com/devinpleuler/analytics-handbook#soccer-analytics-tutorials)
 
 ---
 ## Interesting Reading
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
-
 - **[Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/)** by [Thom Lawrence](https://twitter.com/lemonwatcher)
 - **[Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/)** by [James Yorke](https://twitter.com/jair1970)
 - **[Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/)** by [Bobby Gardiner](https://twitter.com/BobbyGardiner)
