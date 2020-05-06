@@ -1,24 +1,6 @@
 # Awesome Machine Learning On Soccer
 Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)! Inspired by the **[Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)** created by [Devin Pleuler](https://twitter.com/devinpleuler).
 
----
-## Resaerch
-
-<!--
-- **[A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf)** by [Sarah Rudd](https://twitter.com/srudd_ok)
-- **[An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
-- **[Large-Scale Analysis of Soccer Matches ...](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf)** by Alina Bialkowski et. al
-- **[Physics-Based	Modeling	of	Pass	Probabilities	in	Soccer](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1621.pdf)** by [Will Spearman](https://twitter.com/the_spearman) et. al.
-- **[Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1671-2.pdf)** by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey)
-- **[Beyond Expected Goals](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2002.pdf)** by [Spearman](https://twitter.com/the_spearman)
-- **[Not All Passes Are Created Equal: ...](https://dl.acm.org/doi/pdf/10.1145/3097983.3098051)** by [Paul Power](https://twitter.com/counterattack9) et. all
-- **[Wide Open Spaces: ...](http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf)** by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)
-- **[Decomposing	the	Immeasurable	Sport: ...](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)** by [Fernandez](https://twitter.com/JaviOnData), [Bornn](https://twitter.com/LukeBornn), and [Dan Cervone](https://twitter.com/dcervone0)
-- **[Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf)** by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
--->
-- **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
-<!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
-- **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
 ---
 ## Data
@@ -45,9 +27,32 @@ The following two types of data are often used:
 
 - [Soccer Analytics Tutorials](https://github.com/devinpleuler/analytics-handbook#soccer-analytics-tutorials)
 
+
+
+---
+## Resaerch
+
+<!--
+- **[A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf)** by [Sarah Rudd](https://twitter.com/srudd_ok)
+- **[An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
+- **[Large-Scale Analysis of Soccer Matches ...](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf)** by Alina Bialkowski et. al
+- **[Physics-Based	Modeling	of	Pass	Probabilities	in	Soccer](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1621.pdf)** by [Will Spearman](https://twitter.com/the_spearman) et. al.
+- **[Data-Driven	Ghosting	using	Deep	Imitation	Learning](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1671-2.pdf)** by [Hoang	M. Le](https://twitter.com/HoangMinhLe),	Peter	Carr,	Yisong	Yue,	and	[Patrick	Lucey](https://twitter.com/patricklucey)
+- **[Beyond Expected Goals](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2002.pdf)** by [Spearman](https://twitter.com/the_spearman)
+- **[Not All Passes Are Created Equal: ...](https://dl.acm.org/doi/pdf/10.1145/3097983.3098051)** by [Paul Power](https://twitter.com/counterattack9) et. all
+- **[Wide Open Spaces: ...](http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf)** by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)
+- **[Decomposing	the	Immeasurable	Sport: ...](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)** by [Fernandez](https://twitter.com/JaviOnData), [Bornn](https://twitter.com/LukeBornn), and [Dan Cervone](https://twitter.com/dcervone0)
+- **[Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf)** by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
+-->
+- **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+<!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
+- **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
+
 ---
 ## Interesting Reading
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
+
+<!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
 - **[Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/)** by [Thom Lawrence](https://twitter.com/lemonwatcher)
@@ -60,8 +65,10 @@ The following two types of data are often used:
 - **[Breaking Down Set Pieces ...](https://statsbomb.com/2019/05/breaking-down-set-pieces-picks-packs-stacks-and-more/)** by [Euan Dewar](https://twitter.com/EuanDewar)
 - **[Data Based Coaching: ...](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow)** by [Kieran Doyle](https://twitter.com/KierDoyle)
 - **[Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt)** by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
+-->
 
----
+
+<!--
 ## Interesting Watching:
 
 - [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039)
@@ -78,6 +85,8 @@ The following two types of data are often used:
 
 - [Beyond Save Percentage](https://www.youtube.com/watch?v=V9_20e2ut14&t=1s)
   > Probably the smartest stuff I've seen on evaluation of goalkeeper performance, presented by [Derrick Yam](https://twitter.com/YAMiAM9).
+  
+-->
 
 ---
 ## Books:
