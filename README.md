@@ -35,6 +35,23 @@ Player tracking systems record the coordinate position of every player on the fi
 ---
 ## Tools
 
+### Libraries
+- [`socceraction`](https://github.com/ML-KULeuven/socceraction)
+  > A python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
+  
+- [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer)
+  > A python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
+
+- [`statsbombpy`](https://github.com/statsbomb/statsbombpy)
+  > A python library written by Francisco Goitia to access StatsBomb data.
+
+- [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
+  > A python library to convert StatsBomb's JSON data into CSV format.
+
+- [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
+  > Not `Python`, but this soccer visualization library from [Ben Torvaney](https://twitter.com/Torvaney) is great.
+
+
 ### Tutorial
 
 https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
@@ -76,27 +93,6 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 
 - [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
   > This PyCon 2016 talk from [Jake VanderPlas](https://twitter.com/jakevdp) is a great crash course in doing _statistics with for loops_. It really provides a great perspective for those of us without an extensive background in hard statistics. Great speaker, too.
-
----
-## Resources:
-
-- [`socceraction`](https://github.com/ML-KULeuven/socceraction)
-  > A python library for valuing the individual actions performed by soccer players. Includes an Expected Threat (xT) implementation. From [Tom Decroos](https://twitter.com/TomDecroos) et. al.
-
-- [`statsbombpy`](https://github.com/statsbomb/statsbombpy)
-  > A python library written by Francisco Goitia to access StatsBomb data.
-
-- [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer)
-  > A python library for visualising soccer event data. Also by [Tom Decroos](https://twitter.com/TomDecroos).
-
-- [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
-  > Not `Python`, but this soccer visualization library from [Ben Torvaney](https://twitter.com/Torvaney) is great.
-
-- [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
-  > A python library to convert StatsBomb's JSON data into CSV format.
-
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-  > [Jake VanderPlas](https://twitter.com/jakevdp) made his entire Python Data Science Handbook and accompanying Jupyter notebooks available online. It's a tremendous resource.
 
 ---
 ## Books:
