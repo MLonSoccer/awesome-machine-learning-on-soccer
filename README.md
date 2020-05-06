@@ -55,8 +55,10 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 
 ---
 ## Blog Posts
-- **[Assessing	The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
+- **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
+- **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
+
 - **[Defending Your Patch](https://deepxg.com/2016/02/07/defending-your-patch/)** by [Thom Lawrence](https://twitter.com/lemonwatcher)
 - **[Pass Footedness in the Premier League](https://statsbomb.com/2019/04/pass-footedness-in-the-premier-league/)** by [James Yorke](https://twitter.com/jair1970)
 - **[Messi Walks Better Than Most Players Run](https://fivethirtyeight.com/features/messi-walks-better-than-most-players-run/)** by [Bobby Gardiner](https://twitter.com/BobbyGardiner)
@@ -67,8 +69,6 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 - **[Breaking Down Set Pieces ...](https://statsbomb.com/2019/05/breaking-down-set-pieces-picks-packs-stacks-and-more/)** by [Euan Dewar](https://twitter.com/EuanDewar)
 - **[Data Based Coaching: ...](https://www.americansocceranalysis.com/home/2020/3/19/data-based-coaching-how-to-incorporate-data-driven-decisions-into-your-coaching-workflow)** by [Kieran Doyle](https://twitter.com/KierDoyle)
 - **[Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt)** by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
-
-> Many of these are borrowed from [Sam Gregory](https://twitter.com/GregorydSam)'s list  [here](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e). This is far from complete, and will definitely add to this from time to time.
 
 ---
 ## Recommended Watching:
