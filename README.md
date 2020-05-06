@@ -2,8 +2,9 @@
 Awesome links, research papers, and open source projects related to Machine Learning applied to Soccer (MLonSoccer)! Inspired by the **[Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)** created by [Devin Pleuler](https://twitter.com/devinpleuler).
 
 ---
-## Resaerch and Analytics on Soccer
+## Resaerch
 
+<!--
 - **[A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf)** by [Sarah Rudd](https://twitter.com/srudd_ok)
 - **[An Extension of the Pythagorean Expectation ...](https://www.soccermetrics.net/wp-content/uploads/2013/08/football-pythagorean-article.pdf)** by [Howard Hamilton](https://twitter.com/soccermetrics)
 - **[Large-Scale Analysis of Soccer Matches ...](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20141211131038/Large-Scale-Analysis-of-Soccer-Matches-using-Spatiotemporal-Tracking-Data-Paper.pdf)** by Alina Bialkowski et. al
@@ -14,9 +15,10 @@ Awesome links, research papers, and open source projects related to Machine Lear
 - **[Wide Open Spaces: ...](http://www.sloansportsconference.com/wp-content/uploads/2018/03/1003.pdf)** by [Javier Fernandez](https://twitter.com/JaviOnData) and [Luke Bornn](https://twitter.com/LukeBornn)
 - **[Decomposing	the	Immeasurable	Sport: ...](http://www.sloansportsconference.com/wp-content/uploads/2019/02/Decomposing-the-Immeasurable-Sport.pdf)** by [Fernandez](https://twitter.com/JaviOnData), [Bornn](https://twitter.com/LukeBornn), and [Dan Cervone](https://twitter.com/dcervone0)
 - **[Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf)** by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
-- **[Actions Speak Louder than Goals: ...](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
-- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
-- **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)
+-->
+- **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+<!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
+- **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
 ---
 ## Data
