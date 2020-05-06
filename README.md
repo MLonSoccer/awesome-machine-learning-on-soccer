@@ -54,7 +54,7 @@ The following two types of data are often used by analytist:
 https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 
 ---
-## Blog Posts
+## Interesting Reading
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
@@ -71,7 +71,7 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 - **[Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt)** by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
 
 ---
-## Recommended Watching:
+## Interesting Watching:
 
 - [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039)
   > This 2020 OptaPro Forum talk from [Karun Singh](https://twitter.com/karun1710) represents some state-of-the-art research around autoencoders and feature extraction from tactical context.
@@ -87,9 +87,6 @@ https://github.com/zhenyisx/analytics-handbook#soccer-analytics-tutorials
 
 - [Beyond Save Percentage](https://www.youtube.com/watch?v=V9_20e2ut14&t=1s)
   > Probably the smartest stuff I've seen on evaluation of goalkeeper performance, presented by [Derrick Yam](https://twitter.com/YAMiAM9).
-
-- [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-  > This PyCon 2016 talk from [Jake VanderPlas](https://twitter.com/jakevdp) is a great crash course in doing _statistics with for loops_. It really provides a great perspective for those of us without an extensive background in hard statistics. Great speaker, too.
 
 ---
 ## Books:
