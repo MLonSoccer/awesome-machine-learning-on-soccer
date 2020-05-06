@@ -21,7 +21,7 @@ Awesome links, research papers, and open source projects related to Machine Lear
 ---
 ## Data
 
-The following two types of data are often used by analytist:
+The following two types of data are often used:
 - **Event Data** describe on-ball events
 - **Tracking Data** are records of the coordinate position of every player on the field (and usually the ball), many times per second. State-of-the-art systems collect up to 25 samples-per-second. 
 
