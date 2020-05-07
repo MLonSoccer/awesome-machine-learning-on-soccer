@@ -22,7 +22,7 @@ The following two types of data are often used:
 - [`statsbombpy`](https://github.com/statsbomb/statsbombpy)
 - [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
-- [`Friends-of-Tracking-Data`]https://github.com/Friends-of-Tracking-Data-FoTD
+- [`Friends-of-Tracking-Data`](https://github.com/Friends-of-Tracking-Data-FoTD)
 
 ### Tutorial
 
