@@ -92,7 +92,7 @@ The following two types of data are often used:
 ## Books:
 - [The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
 - [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
-- [Soccermatics](https://www.amazon.co.uk/Soccermatics-Mathematical-Adventures-Pro-Bloomsbury/dp/1472924142/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by [David Sumpter](https://twitter.com/Soccermatics)
+- [Soccermatics](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Beautiful-Bloomsbury-ebook/dp/B01AIB7YKE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1588827600&sr=8-1) by [David Sumpter](https://twitter.com/Soccermatics)
 
 ---
 ## Conferences/Workshops
