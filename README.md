@@ -24,6 +24,9 @@ The following two types of data are often used:
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
 - [`Friends-of-Tracking-Data`](https://github.com/Friends-of-Tracking-Data-FoTD)
 
+### Colab
+- [`Player_Contribution_To_Pitch_Control`](https://colab.research.google.com/drive/13icigik02kigCq9GlkFhp_k0cdZikFv8)
+
 ### Tutorial
 
 - [Soccer Analytics Tutorials](https://github.com/devinpleuler/analytics-handbook#soccer-analytics-tutorials)
