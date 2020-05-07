@@ -107,5 +107,5 @@ The following two types of data are often used:
 ## Credits
 
 - https://github.com/devinpleuler/analytics-handbook
-- ["Statistics Meets Football" Reading List](http://eightyfivepoints.blogspot.com/p/reading-list.html) by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
+- ["Statistics Meets Soccer" Reading List](http://eightyfivepoints.blogspot.com/p/reading-list.html) by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
 - https://github.com/josephmisiti/awesome-machine-learning
