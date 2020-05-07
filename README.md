@@ -56,6 +56,8 @@ The following two types of data are often used:
 ## Interesting Reading
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
 
+- **[EightyFivePoints](http://eightyfivepoints.blogspot.com/p/about-this-blog.html)** by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
+
 <!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
 - **[Counting Across Borders](https://www.optasportspro.com/news-analysis/blog-counting-across-borders/)** by [Ben Torvaney](https://twitter.com/Torvaney)
@@ -105,4 +107,5 @@ The following two types of data are often used:
 ## Credits
 
 - https://github.com/devinpleuler/analytics-handbook
+- [Reading List](http://eightyfivepoints.blogspot.com/p/reading-list.html) by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
 - https://github.com/josephmisiti/awesome-machine-learning
