@@ -16,12 +16,13 @@ The following two types of data are often used:
 ---
 ## Tools
 
-### Libraries
+### Open Source Projects
 - [`socceraction`](https://github.com/ML-KULeuven/socceraction)
 - [`matplotsoccer`](https://github.com/TomDecroos/matplotsoccer)
 - [`statsbombpy`](https://github.com/statsbomb/statsbombpy)
 - [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
+- [`Friends-of-Tracking-Data`]https://github.com/Friends-of-Tracking-Data-FoTD
 
 ### Tutorial
 
