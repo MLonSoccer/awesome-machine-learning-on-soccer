@@ -51,6 +51,8 @@ The following two types of data are often used:
 - **[Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf)** by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
 -->
 - **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
+- **[Self-Supervised Representations for Tracking Data](https://karun.in/blog/ssr-tracking-data.html)** by [Karun Singh](https://twitter.com/karun1710)
+- **[Interactive Passing Networks](https://karun.in/blog/interactive-passing-networks.html)** by [Karun Singh](https://twitter.com/karun1710)
 <!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
 - **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
@@ -107,6 +109,9 @@ The following two types of data are often used:
 - [2020 SOUNDERS FC SOCCER ANALYTICS CONFERENCE](https://www.soundersfc.com/socceranalytics)
 - [StatsBomb Conference](https://statsbomb.com/conference/)
 - BARÇA SPORTS ANALYTICS SUMMIT [2020](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2020/) [2019](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/) [2018](https://barcainnovationhub.com/event/barca-football-coach-analytics-summit/)
+- OptaPro Analytics Forum [2020](https://www.optasportspro.com/event/analytics-forum/)
+- [2020 Google Sports Analytics Meetup](https://www.youtube.com/playlist?list=PLN61gcz35HB7enamPi8bG4bFJNsBPYW27)
+- MIT SLOAN Sports analytics conference [2020](http://www.sloansportsconference.com)
 
 ---
 ## Credits
