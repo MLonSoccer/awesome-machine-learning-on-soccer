@@ -23,6 +23,7 @@ The following two types of data are often used:
 - [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
 - [`Friends-of-Tracking-Data`](https://github.com/Friends-of-Tracking-Data-FoTD)
+- [`kloppy`](https://github.com/PySport/kloppy#deserializing-data)
 
 ### Colab
 - [`Player_Contribution_To_Pitch_Control`](https://colab.research.google.com/drive/13icigik02kigCq9GlkFhp_k0cdZikFv8)
