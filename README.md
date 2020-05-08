@@ -59,7 +59,7 @@ The following two types of data are often used:
 
 - **[EightyFivePoints](http://eightyfivepoints.blogspot.com/p/about-this-blog.html)** by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
 
---**[pysports](https://pysport.org)** 
+- **[pysports](https://pysport.org)** 
 
 <!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
