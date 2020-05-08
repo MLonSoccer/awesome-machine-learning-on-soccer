@@ -23,7 +23,7 @@ The following two types of data are often used:
 - [`statsbomb-data-parser`](https://github.com/imrankhan17/statsbomb-parser)
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
 - [`Friends-of-Tracking-Data`](https://github.com/Friends-of-Tracking-Data-FoTD)
-- [`kloppy`](https://github.com/PySport/kloppy#deserializing-data)
+- [`pysport`](https://github.com/pysport)
 
 ### Colab
 - [`Player_Contribution_To_Pitch_Control`](https://colab.research.google.com/drive/13icigik02kigCq9GlkFhp_k0cdZikFv8)
@@ -58,8 +58,6 @@ The following two types of data are often used:
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
 
 - **[EightyFivePoints](http://eightyfivepoints.blogspot.com/p/about-this-blog.html)** by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
-
-- **[pysports](https://pysport.org)** 
 
 <!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
