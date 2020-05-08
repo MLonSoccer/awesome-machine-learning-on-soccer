@@ -103,6 +103,8 @@ The following two types of data are often used:
 ---
 ## Conferences/Workshops
 - [2020 SOUNDERS FC SOCCER ANALYTICS CONFERENCE](https://www.soundersfc.com/socceranalytics)
+- [StatsBomb Conference](https://statsbomb.com/conference/)
+
 ---
 ## Credits
 
