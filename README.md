@@ -105,6 +105,7 @@ The following two types of data are often used:
 ## Conferences/Workshops
 - [2020 SOUNDERS FC SOCCER ANALYTICS CONFERENCE](https://www.soundersfc.com/socceranalytics)
 - [StatsBomb Conference](https://statsbomb.com/conference/)
+- BARÇA SPORTS ANALYTICS SUMMIT [2020](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2020/) [2019](https://barcainnovationhub.com/event/barca-sports-analytics-summit-2019/) [2018](https://barcainnovationhub.com/event/barca-football-coach-analytics-summit/)
 
 ---
 ## Credits
