@@ -24,6 +24,7 @@ The following two types of data are often used:
 - [`ggsoccer`](https://github.com/Torvaney/ggsoccer)
 - [`Friends-of-Tracking-Data`](https://github.com/Friends-of-Tracking-Data-FoTD)
 - [`pysport`](https://github.com/pysport)
+- [`HarvardSoccer`](https://github.com/HarvardSoccer)
 
 ### Colab
 - [`Player_Contribution_To_Pitch_Control`](https://colab.research.google.com/drive/13icigik02kigCq9GlkFhp_k0cdZikFv8)
