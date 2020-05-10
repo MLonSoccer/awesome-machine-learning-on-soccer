@@ -41,7 +41,7 @@ The following two types of data are often used:
 
 
 ---
-## Resaerch
+## Research
 
 <!--
 - **[A	 Framework	 for	 Tactical	 Analysis	 and	...](http://nessis.org/nessis11/rudd.pdf)** by [Sarah Rudd](https://twitter.com/srudd_ok)
@@ -56,17 +56,19 @@ The following two types of data are often used:
 - **[Modelling the Collective Movement of Football Players](http://uu.diva-portal.org/smash/get/diva2:1365788/FULLTEXT01.pdf)** by [Francisco José Peralta Alguacil](https://twitter.com/PeraltaFran23)
 -->
 - **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
-- **[Self-Supervised Representations for Tracking Data](https://karun.in/blog/ssr-tracking-data.html)** by [Karun Singh](https://twitter.com/karun1710)
-- **[Interactive Passing Networks](https://karun.in/blog/interactive-passing-networks.html)** by [Karun Singh](https://twitter.com/karun1710)
-- **[Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html)** by [Karun Singh](https://twitter.com/karun1710)
+
 <!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
 - **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
 ---
-## Interesting Reading
+## Reading
 - **[Best Football Analytics Pieces](https://medium.com/@GregorydSam/best-football-analytics-pieces-e532844b12e)** by [Sam Gregory](https://twitter.com/GregorydSam).
 
 - **[EightyFivePoints](http://eightyfivepoints.blogspot.com/p/about-this-blog.html)** by [Laurie Shaw](https://twitter.com/EightyFivePoint).
+
+- **[Self-Supervised Representations for Tracking Data](https://karun.in/blog/ssr-tracking-data.html)** by [Karun Singh](https://twitter.com/karun1710)
+- **[Interactive Passing Networks](https://karun.in/blog/interactive-passing-networks.html)** by [Karun Singh](https://twitter.com/karun1710)
+- **[Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html)** by [Karun Singh](https://twitter.com/karun1710)
 
 <!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
