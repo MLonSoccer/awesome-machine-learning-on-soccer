@@ -85,7 +85,8 @@ The following two types of data are often used:
 - **[Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt)** by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
 -->
 
-## Videos:
+---
+## Videos
 - [Soccermatics: how maths explains football](https://youtu.be/Nv7JYtVbzvI) by [David Sumpter](https://twitter.com/Soccermatics)
 <!--
 
@@ -128,3 +129,7 @@ The following two types of data are often used:
 - https://github.com/devinpleuler/analytics-handbook
 - ["Statistics Meets Soccer" Reading List](http://eightyfivepoints.blogspot.com/p/reading-list.html) by [Laurie Shaw](https://itc.cfa.harvard.edu/people/laurie-shaw).
 - https://github.com/josephmisiti/awesome-machine-learning
+
+---
+## Contact
+For any questions, please reach out to Yi Zhen (zhenyisx@gmail.com).
