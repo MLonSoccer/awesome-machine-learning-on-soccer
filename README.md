@@ -57,6 +57,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - **[Actions Speak Louder than Goals: Valuing Player Actions in Soccer](https://arxiv.org/pdf/1802.07127.pdf)** by [Tom Decroos](https://twitter.com/TomDecroos), [Lotte Branson](https://twitter.com/LotteBransen), [Jan Van Haaren](https://twitter.com/JanVanHaaren), and [Jesse Davis](https://twitter.com/jessejdavis1)
 - **[Machine Learning for Soccer Analytics](Machine_Learning_for_Soccer_Analytics)** by Gunjan Kumar
 - **[Modelling the Collective Movement of Football Players](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1365788&dswid=-6119)** by FJ Peralta Alguacil
+- **[Beyond Expected Goals](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2002.pdf)** by William Spearman
 <!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
 - **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
