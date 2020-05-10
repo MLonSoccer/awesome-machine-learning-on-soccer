@@ -113,6 +113,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - [The Numbers Game](https://www.amazon.com/Numbers-Game-Everything-About-Soccer/dp/0143124560) by [Chris Anderson](https://twitter.com/soccerquant) and [David Sally](https://twitter.com/DavidSally6)
 - [Football Hackers](https://www.amazon.com/Football-Hackers-Science-Data-Revolution-ebook/dp/B07NQM3YGK) by [Christoph Biermann](https://twitter.com/chbiermann)
 - [Soccermatics](https://www.amazon.com/Soccermatics-Mathematical-Adventures-Beautiful-Bloomsbury-ebook/dp/B01AIB7YKE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1588827600&sr=8-1) by [David Sumpter](https://twitter.com/Soccermatics)
+- [The Expected Goals Philosophy: A Game-Changing Way of Analysing Football](https://www.amazon.com/Expected-Goals-Philosophy-Game-Changing-Analysing/dp/1089883188/ref=sr_1_1?crid=1N3R5BSSGLAUC&dchild=1&keywords=the+expected+goals+philosophy&qid=1589149015&sprefix=the+expected+goal+p%2Caps%2C203&sr=8-1) by James Tippett
 
 ---
 ## Conferences/Workshops
