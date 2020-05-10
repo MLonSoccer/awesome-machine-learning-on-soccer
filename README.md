@@ -6,12 +6,17 @@ This repo is created to track awesome links, research papers, and open source pr
 ## Data
 
 The following two types of data are often used:
+- **Match Data** describe results and betting odds
 - **Event Data** describe on-ball events
 - **Tracking Data** are records of the coordinate position of every player on the field (and usually the ball), many times per second. State-of-the-art systems collect up to 25 samples-per-second. 
 
 ### Public Dataset
 - https://github.com/statsbomb/open-data
 - https://github.com/metrica-sports/sample-data
+
+### Database
+- [Football-Lineups](https://www.football-lineups.com)
+- [Football-Data](https://www.football-data.co.uk/data.php)
 
 ---
 ## Tools
@@ -78,9 +83,10 @@ The following two types of data are often used:
 - **[Coaches Reward Goalscorers ...](https://www.americansocceranalysis.com/home/2020/3/30/coaches-reward-goalscorers-they-shouldnt)** by [McKinley](https://twitter.com/etmckinley) and [John Muller](https://twitter.com/johnspacemuller)
 -->
 
-
+## Videos:
+- [Soccermatics: how maths explains football](https://youtu.be/Nv7JYtVbzvI) by [David Sumpter](https://twitter.com/Soccermatics)
 <!--
-## Interesting Watching:
+
 
 - [Self-Supervised Representations for Tracking Data](https://player.vimeo.com/video/398489039)
   > This 2020 OptaPro Forum talk from [Karun Singh](https://twitter.com/karun1710) represents some state-of-the-art research around autoencoders and feature extraction from tactical context.
