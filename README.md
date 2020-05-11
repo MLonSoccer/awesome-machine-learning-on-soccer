@@ -13,6 +13,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - https://github.com/statsbomb/open-data
 - https://github.com/metrica-sports/sample-data
 - [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
+- [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/)
 
 ### Website
 - [Football-Lineups](https://www.football-lineups.com)
