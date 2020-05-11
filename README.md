@@ -9,9 +9,10 @@ This repo is created to track awesome links, research papers, and open source pr
 - **Event Data** describe on-ball events
 - **Tracking Data** are records of the coordinate position of every player on the field (and usually the ball), many times per second. State-of-the-art systems collect up to 25 samples-per-second. 
 
-### Github
+### Dataset
 - https://github.com/statsbomb/open-data
 - https://github.com/metrica-sports/sample-data
+- [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 
 ### Website
 - [Football-Lineups](https://www.football-lineups.com)
