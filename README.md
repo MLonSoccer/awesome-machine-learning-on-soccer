@@ -60,6 +60,9 @@ This repo is created to track awesome links, research papers, and open source pr
 - **[Machine Learning for Soccer Analytics](Machine_Learning_for_Soccer_Analytics)** by Gunjan Kumar
 - **[Modelling the Collective Movement of Football Players](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1365788&dswid=-6119)** by FJ Peralta Alguacil
 - **[Beyond Expected Goals](http://www.sloansportsconference.com/wp-content/uploads/2018/02/2002.pdf)** by William Spearman
+- [Towards A New Method to Analyze the Soccer Teams Tactical Behaviour: Measuring the Effective Area of Play](https://www.researchgate.net/publication/233811663_Towards_A_New_Method_to_Analyze_the_Soccer_Teams_Tactical_Behaviour_Measuring_the_Effective_Area_of_Play)
+- [Tactics Analysis in Soccer -- An Advanced Approach](https://www.dshs-koeln.de/fileadmin/redaktion/Institute/Kognitions-_und_Sportspielforschung/Publikationen/Paper/Perl_2013_Tactics-analysis-in-soccer.pdf)
+- [Big data and tactical analysis in elite soccer: future challenges and opportunities for sports science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4996805/)
 <!--- **[Dynamic Analysis of Team Strategy in Professional Footbal](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/56ce723e-barca-conference-paper-laurie-shaw.pdf)** by [Laurie Shaw](https://twitter.com/EightyFivePoint) and [Mark Glickman](https://twitter.com/glicko)
 - **[Ready Player Run: Off-ball run identification and classification](https://static.capabiliaserver.com/frontend/clients/barca/wp_prod/wp-content/uploads/2020/01/40ba07f4-ready-player-run-barcelona.pdf)** by [Sam Gregory](https://twitter.com/GregorydSam)-->
 
@@ -73,6 +76,8 @@ This repo is created to track awesome links, research papers, and open source pr
 - **[Interactive Passing Networks](https://karun.in/blog/interactive-passing-networks.html)** by [Karun Singh](https://twitter.com/karun1710)
 - **[Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html)** by [Karun Singh](https://twitter.com/karun1710)
 - **[How Technology Helps Measure Soccer Statistics and Tactics](https://medium.com/@sportsengineer/how-technology-helps-measure-soccer-statistics-and-tactics-7c2627c80a6c)** by Julian Chua
+- **[differentgame](https://differentgame.wordpress.com/)**
+
 
 <!--
 - **[Assessing The	Performance	of Premier League Goalscorers](https://www.optasportspro.com/news-analysis/assessing-the-performance-of-premier-league-goalscorers/)** by [Sam Green](https://twitter.com/aSamGreen)
