@@ -14,6 +14,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - https://github.com/metrica-sports/sample-data
 - [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 - [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/)
+- [Football (Soccer) Player and Ball Localization](https://haizaha.com/datasets/soccer-player-and-ball-localization)
 
 ### Website
 - [Football-Lineups](https://www.football-lineups.com)
@@ -80,6 +81,8 @@ This repo is created to track awesome links, research papers, and open source pr
 - **[How Technology Helps Measure Soccer Statistics and Tactics](https://medium.com/@sportsengineer/how-technology-helps-measure-soccer-statistics-and-tactics-7c2627c80a6c)** by Julian Chua
 - **[differentgame](https://differentgame.wordpress.com/)**
 - **[Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)** by Priya Dwivedi
+- **[Detecting soccer players and ball with RetinaNet](https://towardsdatascience.com/detecting-soccer-palyers-and-ball-retinantet-2ab5f997ab2)** by Mendrika Ramarlina
+
 
 
 <!--
