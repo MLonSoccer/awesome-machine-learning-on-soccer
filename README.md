@@ -32,8 +32,10 @@ This repo is created to track awesome links, research papers, and open source pr
 - [`pysport`](https://github.com/pysport)
 - [`HarvardSoccer`](https://github.com/HarvardSoccer)
 
-### Colab
+### Notebook
 - [`Player_Contribution_To_Pitch_Control`](https://colab.research.google.com/drive/13icigik02kigCq9GlkFhp_k0cdZikFv8)
+- [soccer_area_of_action](https://github.com/priya-dwivedi/Deep-Learning/tree/master/soccer_area_of_action)
+- [soccer_team_prediction](https://github.com/priya-dwivedi/Deep-Learning/tree/master/soccer_team_prediction)
 
 ### Tutorial
 
@@ -77,6 +79,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - **[Introducing Expected Threat (xT)](https://karun.in/blog/expected-threat.html)** by [Karun Singh](https://twitter.com/karun1710)
 - **[How Technology Helps Measure Soccer Statistics and Tactics](https://medium.com/@sportsengineer/how-technology-helps-measure-soccer-statistics-and-tactics-7c2627c80a6c)** by Julian Chua
 - **[differentgame](https://differentgame.wordpress.com/)**
+- **[Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)** by Priya Dwivedi
 
 
 <!--
