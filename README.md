@@ -15,6 +15,7 @@ This repo is created to track awesome links, research papers, and open source pr
 - [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
 - [Soccer Video and Player Position Dataset](http://home.ifi.uio.no/paalh/dataset/alfheim/)
 - [Football (Soccer) Player and Ball Localization](https://haizaha.com/datasets/soccer-player-and-ball-localization)
+- [Footalytics Settled Predictions](https://github.com/footalytics/footalytics-data) — public scored AI 1X2 CSV (free, no signup, CC BY 4.0; pre-kickoff picks graded after the match; daily update). Live board: https://footalytics.farvor.com/accuracy
 
 ### Website
 - [Football-Lineups](https://www.football-lineups.com)
