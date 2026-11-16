@@ -19,6 +19,7 @@ This repo is created to track awesome links, research papers, and open source pr
 ### Website
 - [Football-Lineups](https://www.football-lineups.com)
 - [Football-Data](https://www.football-data.co.uk/data.php)
+- [Footalytics](https://footalytics.farvor.com) - AI football match predictions (win/draw/loss probabilities, confidence tiers, team ratings) with a publicly graded accuracy ledger of all past picks
 
 ---
 ## Tools
